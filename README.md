@@ -1,0 +1,1 @@
+Run `com.smartequip.Main`
